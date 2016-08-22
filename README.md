@@ -1,2 +1,6 @@
 # LinkedTech-AH
-Web application that aggregate Open Data information using Linked Data
+Web Application that Aggregate Open Data Information using Linked Data Technology
+
+<br />
+<br />
+waiting connection for upload...
